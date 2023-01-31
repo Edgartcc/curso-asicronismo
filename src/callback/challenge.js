@@ -94,3 +94,5 @@ fetchData(`${API}/products`, function (error1, data1) {
         });
   });
 }); */
+
+// escribe codigo para encender un led en arduino
